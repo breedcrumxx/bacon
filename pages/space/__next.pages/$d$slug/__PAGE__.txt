@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[97367,["/beacon/_next/static/chunks/ff1a16fafef87110.js","/beacon/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"buildId":"U5EGgiBiKJWkvCOHYx4Lq","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"h-full w-full leading-8 space-y-4 pl-8 flex flex-col","children":[["$","p",null,{"className":"w-1/2","children":"Of course, we converse in our native language (Tagalog). I translated everything he shared, but I kept the meaning as I understood it."}],["$","br",null,{}],["$","p",null,{"className":"w-1/2 italic opacity-70","children":"\"'Cause in all the things in this world,"}],["$","p",null,{"className":"w-1/2 italic opacity-70","children":"We hold our own meanings for things."}],["$","p",null,{"className":"w-1/2 italic opacity-70","children":"And we fear what we cannot comprehend.\""}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
+4:null

@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[97367,["/beacon/_next/static/chunks/ff1a16fafef87110.js","/beacon/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"buildId":"U5EGgiBiKJWkvCOHYx4Lq","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"h-full w-full leading-8 space-y-4 pl-8 flex flex-col","children":[["$","p",null,{"children":"My hand aches as I work through this endless list, feeling as though every task I finish only adds more to the pile. It's a never-ending cycle. I'm not used to writing without thought, my hands usually move in sync with what I'm thinking, not just following instructions I've read."}],["$","p",null,{"children":"It feels like I'm being forced to write things I don't want to. But I have to. And when I do, my mind goes blank. Time drags on, and I can't shake this feeling of being stuck, like I'm nowhere at all, existing but not really living."}]]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
+4:null
